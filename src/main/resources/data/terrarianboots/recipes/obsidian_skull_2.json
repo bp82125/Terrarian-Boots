@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#0#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "terrarianboots:obsidian_shard"
+    },
+    "0": {
+      "item": "minecraft:skeleton_skull"
+    }
+  },
+  "result": {
+    "item": "terrarianboots:obsidian_skull"
+  }
+}

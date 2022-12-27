@@ -1,8 +1,8 @@
-package net.bp82125.firstmod;
+package net.bp82125.terrarianboots;
 
 import net.fabricmc.api.ClientModInitializer;
 
-public class FirstModClient implements ClientModInitializer {
+public class TerrarianBootsClient implements ClientModInitializer {
     @Override
     public void onInitializeClient() {
 

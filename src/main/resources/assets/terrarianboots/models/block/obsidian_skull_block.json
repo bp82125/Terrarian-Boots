@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "terrarianboots:block/obsidian_skull_block"
+  }
+}
